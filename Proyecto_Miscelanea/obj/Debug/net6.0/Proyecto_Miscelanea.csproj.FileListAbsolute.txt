@@ -1,0 +1,15 @@
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\bin\Debug\net6.0\Proyecto_Miscelanea.exe
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\bin\Debug\net6.0\Proyecto_Miscelanea.deps.json
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\bin\Debug\net6.0\Proyecto_Miscelanea.runtimeconfig.json
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\bin\Debug\net6.0\Proyecto_Miscelanea.dll
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\bin\Debug\net6.0\Proyecto_Miscelanea.pdb
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\obj\Debug\net6.0\Proyecto_Miscelanea.csproj.AssemblyReference.cache
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\obj\Debug\net6.0\Proyecto_Miscelanea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\obj\Debug\net6.0\Proyecto_Miscelanea.AssemblyInfoInputs.cache
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\obj\Debug\net6.0\Proyecto_Miscelanea.AssemblyInfo.cs
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\obj\Debug\net6.0\Proyecto_Miscelanea.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\obj\Debug\net6.0\Proyecto_Miscelanea.dll
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\obj\Debug\net6.0\refint\Proyecto_Miscelanea.dll
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\obj\Debug\net6.0\Proyecto_Miscelanea.pdb
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\obj\Debug\net6.0\Proyecto_Miscelanea.genruntimeconfig.cache
+C:\Users\Sena\Documents\Trabajos VG\Proyecto_Miscelanea\obj\Debug\net6.0\ref\Proyecto_Miscelanea.dll
